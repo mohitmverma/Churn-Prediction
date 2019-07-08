@@ -1,5 +1,5 @@
 # Churn-Prediction
-
+The goal of this project is to apply analytical techniques to predict a customer churn and analyse the churning and non-churning customers by using data from Orange telecom company.
 
 Training time for Random Forest Classifier on different sized datasets and cores.
 

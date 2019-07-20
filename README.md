@@ -7,9 +7,9 @@ Training time for Random Forest Classifier on different sized datasets and cores
 
 
 
-/*Average Accuracy for random forest using 1-100 trees , for depths from 4-7.
+#Average Accuracy for random forest using 1-100 trees , for depths from 4-7.
 
-![2](https://user-images.githubusercontent.com/25265862/57981788-09b4cd00-7a5a-11e9-95b3-200e90e35e46.jpg)
+#![2](https://user-images.githubusercontent.com/25265862/57981788-09b4cd00-7a5a-11e9-95b3-200e90e35e46.jpg)
 
 
 
